@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    overflow-y: hidden;
+
+}
+.container{
+    height: 100rem;
+    width: 100rem;
+    background-color: aqua;
+}
+
+.textBox{
+    border: 1px black solid;
+    height: 20rem;
+    width: 50rem;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+h1{
+    font-size: 50px;
+    color: brown;
+}
